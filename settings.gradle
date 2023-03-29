@@ -1,0 +1,3 @@
+rootProject.name='LastTools'
+include ':app'
+include ':mylibrary'
